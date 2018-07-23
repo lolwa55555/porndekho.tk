@@ -30,5 +30,5 @@ Categories:<br>
 </style>
 
 <div class="footer">
-    <p>©porndekho.tk 2018<br>Coded with &#x2764; in India</p>
+    <p>©porndekho.tk 2018</p>
 </div>
